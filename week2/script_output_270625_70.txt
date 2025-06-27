@@ -1,3 +1,4 @@
+--Output of sql file
 
 Reminder: Loan ID 101 for Customer ID 1 is due on 17-JUL-2025
 Reminder: Loan ID 103 for Customer ID 3 is due on 07-JUL-2025
