@@ -1,0 +1,9 @@
+
+Reminder: Loan ID 101 for Customer ID 1 is due on 17-JUL-2025
+Reminder: Loan ID 103 for Customer ID 3 is due on 07-JUL-2025
+Reminder: Loan ID 104 for Customer ID 4 is due on 02-JUL-2025
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.006
