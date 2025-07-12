@@ -1,0 +1,16 @@
+# Week 4 - Spring Boot Hands-on 1
+
+## Project: spring-learn
+
+✅ Created using Spring Initializr  
+✅ Maven-based Spring Boot project  
+✅ Dependencies: Spring Web, DevTools  
+✅ Verified successful application startup via `SpringLearnApplication.java`
+
+### Structure
+- `src/main/java` – Main code
+- `src/main/resources` – Config files
+- `pom.xml` – Project dependencies
+
+### Screenshot Proofs (if added)
+
