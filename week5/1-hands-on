@@ -1,0 +1,9 @@
+| Concept              | Description                                                         |
+| -------------------- | ------------------------------------------------------------------- |
+| SPA             | Single Page Application — loads once, dynamically updates           |
+| MPA              | Multi Page Application — traditional websites, reload for each page |
+| React             | A JavaScript library for building UI, mainly SPAs                   |
+| Virtual DOM      | A lightweight copy of real DOM that React uses to optimize updates  |
+| Create React App  | Boilerplate tool to quickly scaffold React apps                     |
+| Pros of SPA      | Fast, seamless user experience, less server load                    |
+| Cons of SPA       | SEO can be tricky, larger initial load                              |
