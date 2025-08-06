@@ -1,0 +1,43 @@
+ES6 (ECMAScript 2015) introduced several new features to JavaScript. Some of the most important are:
+
+let and const for block-scoped variable declarations.
+
+Arrow functions for concise function syntax.
+
+Template literals for easier string interpolation.
+
+Classes for a clearer, object-oriented syntax.
+
+Default, rest, and spread parameters in functions.
+
+Destructuring assignment for arrays and objects.
+
+Modules for importing and exporting code between files.
+
+Promises for asynchronous programming.
+
+Enhanced object literals and for...of loops.
+
+2. Differences between var and let
+Scope:
+
+var is function-scoped: it’s accessible throughout the function in which it’s declared, or globally if declared outside a function.
+
+let is block-scoped: it’s only accessible within the nearest enclosing block (e.g., {} of an if statement or for loop).
+
+Hoisting:
+
+Both var and let are hoisted, but let is not initialized, leading to a "temporal dead zone" until declaration is reached.
+
+Redeclaration:
+
+var allows re-declaration in the same scope.
+
+let does not allow re-declaration in the same scope.
+
+3. JavaScript const
+const declares block-scoped variables whose values cannot be reassigned.
+
+const variables must be initialized at the time of declaration.
+
+If the variable refers to an object or array, the contents of the object/array can still be modified (the reference can’t change, but its contents can).
